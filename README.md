@@ -20,19 +20,19 @@ This project is a web application that provides comprehensive information about 
    ```bash
    git clone https://github.com/USERNAME/REPO_NAME.git
    
-2.Navigate to the project directory:
+  2.Navigate to the project directory:
 
-    cd bmw-car-information-website
+      cd bmw-car-information-website
 
-3.Install dependencies:
+  3.Install dependencies:
 
-    npm install
+      npm install
 
 ## Usage
 
-1.Start the application:
+  1.Start the application:
 
-    npm start
+      npm start
 
  2.Open your web browser and navigate to http://localhost:3000.
 
