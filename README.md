@@ -18,17 +18,15 @@ This project is a web application that provides comprehensive information about 
 
 1. Clone the repository:
    ```bash
-   
    git clone https://github.com/USERNAME/REPO_NAME.git
-   
-2.Navigate to the project directory:
 
-    cd bmw-car-information-website
+2. Navigate to the project directory:
 
-3.Install dependencies:
+       cd ai-image-generator
 
-     npm install
+3. Install dependencies:
 
+       npm install
 ## Usage
 
 1.Start the application:
