@@ -51,6 +51,8 @@ This project is a web application that provides comprehensive information about 
 
 ## Screenshots
 
+![Image](https://github.com/salah-alstre/ev-bmw/blob/main/src/assets/bmw-love.jpg)
+
 
 ## Contributing
 
