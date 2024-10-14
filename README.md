@@ -1,13 +1,13 @@
 # BMW Car Advertisement Project
 
 ## Description
-This project is a React-based application for advertising BMW cars, showcasing the latest models and their features. The aim is to engage potential buyers by presenting comprehensive information in an interactive format.
+This project is a React application built with Vite that serves as an advertisement platform for BMW cars. The aim is to showcase the brand's unique style and luxury without going into detailed specifications.
 
 ## Features
-- Dynamic display of various BMW models with images and descriptions.
-- Filter and search functionality to find specific models.
-- Responsive design for optimal viewing on all devices.
-- User-friendly interface with smooth navigation.
+- Attractive visual presentation of BMW models.
+- Engaging layout to capture the attention of potential buyers.
+- Fast loading times thanks to Vite's optimized build process.
+- Responsive design for seamless viewing across devices.
 
 ## Requirements
 - Node.js
@@ -17,13 +17,13 @@ This project is a React-based application for advertising BMW cars, showcasing t
 1. Clone the repository: `git clone https://github.com/yourusername/bmw-advertisement.git`
 2. Navigate to the project directory: `cd bmw-advertisement`
 3. Install dependencies: `npm install`
-4. Start the application: `npm start`
+4. Start the development server: `npm run dev`
 
 ## Usage
-- Use the application to explore different BMW models, filter by specifications, and view detailed information.
+- Open the application in your browser at `http://localhost:3000` (or the specified port) to view the BMW advertisement.
 
 ## Contributing
-Contributions are welcome! Please submit issues or pull requests to help improve the project.
+Contributions are welcome! Please submit issues or pull requests to enhance the project.
 
 ## License
 This project is licensed under the MIT License.
