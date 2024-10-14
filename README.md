@@ -18,6 +18,7 @@ This project is a web application that provides comprehensive information about 
 
 1. Clone the repository:
    ```bash
+   
    git clone https://github.com/USERNAME/REPO_NAME.git
    
 2.Navigate to the project directory:
