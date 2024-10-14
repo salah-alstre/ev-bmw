@@ -31,7 +31,7 @@ This project is a web application that provides comprehensive information about 
 
 1.Start the application:
 
-    npm start
+    npm run dev
 
  2.Open your web browser and navigate to http://localhost:3000.
 
