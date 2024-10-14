@@ -1,8 +1,29 @@
-# React + Vite
+# BMW Car Advertisement Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a React-based application for advertising BMW cars, showcasing the latest models and their features. The aim is to engage potential buyers by presenting comprehensive information in an interactive format.
 
-Currently, two official plugins are available:
+## Features
+- Dynamic display of various BMW models with images and descriptions.
+- Filter and search functionality to find specific models.
+- Responsive design for optimal viewing on all devices.
+- User-friendly interface with smooth navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requirements
+- Node.js
+- npm (Node Package Manager)
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/bmw-advertisement.git`
+2. Navigate to the project directory: `cd bmw-advertisement`
+3. Install dependencies: `npm install`
+4. Start the application: `npm start`
+
+## Usage
+- Use the application to explore different BMW models, filter by specifications, and view detailed information.
+
+## Contributing
+Contributions are welcome! Please submit issues or pull requests to help improve the project.
+
+## License
+This project is licensed under the MIT License.
