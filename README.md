@@ -6,7 +6,6 @@ This project is a web application that provides comprehensive information about 
 
 - User-friendly interface for easy navigation.
 - Dynamic display of BMW models with images and descriptions.
-- Search functionality to quickly find specific BMW cars.
 - Responsive design for optimal viewing on all devices.
 
 ## Requirements
